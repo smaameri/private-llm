@@ -12,7 +12,7 @@ Answer:"""
 prompt = PromptTemplate(template=template, input_variables=["question"])
 
 llm = GPT4All(
-    model='./models/ggml-mpt-7b-chat.bin'
+    model='./models/ggml-gpt4all-j-v1.3-groovy.bin'
 )
 
 llm_chain = LLMChain(prompt=prompt, llm=llm)
