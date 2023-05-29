@@ -12,7 +12,7 @@ The scripts increase in complexity and features, as follows:
 `cloud-llm.py` Interact with a cloud hosted LLM model. The model is deployed and hosted on the Cerebrium platform.
 
 I wrote an article which explores some of the concepts here, as well as walks through building each of the scripts.
-[Can read that here](https://medium.com/@ssmaameri/building-a-multi-document-reader-and-chatbot-with-langchain-and-chatgpt-d1864d47e339)
+[Can read that here](https://medium.com/@ssmaameri/private-llms-on-local-and-in-the-cloud-with-langchain-gpt4all-and-cerebrium-6dade79f45f6)
 
 
 ## Getting started
